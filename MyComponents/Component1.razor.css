@@ -5,6 +5,6 @@
     background-image: url('background.png');
 }
 
-.my-mud-component {
+::deep .my-mud-component {
     border: 10px solid blue;
 }
